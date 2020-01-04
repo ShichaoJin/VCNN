@@ -6,11 +6,13 @@ The code was written by me in July 2017 in windows using Pytorch deep learnng to
 It ran well in windows10 with NVIDIA GPU support. 
 If you cannot configure the pytorch environment, you can download my previous enironment at: https://pan.baidu.com/s/1g-NKGyUka42_mvw-4-Zy4A   Extracting Password：wpw8
 
-## demo data and instruction
+## Demo data and instructions
 https://github.com/ShichaoJin/VCNN/tree/master/data
+https://github.com/ShichaoJin/VCNN/blob/master/data/data.md
 
+## Pretrained model and instructions
 
-## Code illustration step by step
+## Code instructions step by step
 In the script directory, you wil see code for training, 001_train_vcnn.py
 In the data directorty, a demo training data is provided. 
 In the model directory, the pretrained model used in our paper is presented.
