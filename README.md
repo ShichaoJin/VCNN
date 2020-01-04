@@ -9,7 +9,7 @@ If you cannot configure the pytorch environment, you can download my previous en
 
 ## Code illustration step by step
 Step 1: Run the 004_train_vnet.py
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![traindemo](https://github.com/ShichaoJin/VCNN/blob/master/IMG/train_demo.png)
 
 
 
