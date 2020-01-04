@@ -8,8 +8,10 @@ If you cannot configure the pytorch environment, you can download my previous en
 
 
 ## Code illustration step by step
-In the script directory, you wil see code for training.
-In the data directort, a demo training data is provided. 
+In the script directory, you wil see code for training, 001_train_vcnn.py
+In the data directorty, a demo training data is provided. 
+In the model directory, the pretrained model used in our paper is presented.
+
 
 Step 1: Run the 001_train_vcnn.py
 ![traindemo](https://github.com/ShichaoJin/VCNN/blob/master/IMG/train_demo.png)
@@ -19,7 +21,8 @@ Step 1: Run the 001_train_vcnn.py
 
 
 
-Step 2: Run the 002_test_vcnn.py  to finish accuracy assessment in testing dataset.
+Step 2: Testing dataset and code can be modified from the training scripy.
+
 
 ## The code will be updated into the latest version in the further. If you have any questions, please post it in the ISSUEs.
 
