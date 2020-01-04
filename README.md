@@ -1,7 +1,5 @@
 # VCNN
-## This responsitory is about our paper "Separating the structural components of maize for field phenotyping using terrestrial lidar data and deep convolutional neural networks",
-which is early accessiable at https://ieeexplore.ieee.org/document/8931235
-The code is for learning use only, and any commercial use is not allowed.
+## This responsitory is about our paper "Separating the structural components of maize for field phenotyping using terrestrial lidar data and deep convolutional neural networks", which is early accessiable at https://ieeexplore.ieee.org/document/8931235 The code is for learning use only, and any commercial use is not allowed.
 
 ## Basic information about the code
 The code was written by me in July 2017 in windows using Pytorch deep learnng toolkit. The pytorch version is 0.1.12, python version is Anaconda Python 3.6.6.
