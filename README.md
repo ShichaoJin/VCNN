@@ -8,7 +8,10 @@ If you cannot configure the pytorch environment, you can download my previous en
 
 
 ## Code illustration step by step
-Step 1: Run the 004_train_vnet.py
+In the script directory, you wil see code for training.
+In the data directort, a demo training data is provided. 
+
+Step 1: Run the 001_train_vcnn.py
 ![traindemo](https://github.com/ShichaoJin/VCNN/blob/master/IMG/train_demo.png)
 
 
@@ -16,6 +19,7 @@ Step 1: Run the 004_train_vnet.py
 
 
 
+Step 2: Run the 002_test_vcnn.py  to finish accuracy assessment in testing dataset.
 
 ## The code will be updated into the latest version in the further. If you have any questions, please post it in the ISSUEs.
 
