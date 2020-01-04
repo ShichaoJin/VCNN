@@ -12,6 +12,7 @@ https://github.com/ShichaoJin/VCNN/tree/master/data
 https://github.com/ShichaoJin/VCNN/blob/master/data/data.md
 
 ## Pretrained model and instructions
+https://github.com/ShichaoJin/VCNN/blob/master/model/model.md
 
 ## Code instructions step by step
 In the script directory, you wil see code for training, 001_train_vcnn.py
