@@ -23,7 +23,7 @@ Step 1: Run the 001_train_vcnn.py
 
 Step 2: Testing dataset and code can be modified from the training scripy. By the way, the algorithm will be intergrated into Greenvalley International LiDAR360 software, which will enable a convenient application with GUI support.
 
-## The code will be updated into the latest version in the further. If you have any questions, please post it in the ISSUEs.
+Finally, the code will be updated into the latest version in the further. If you have any questions, please post it in the ISSUEs.
 
 
 
