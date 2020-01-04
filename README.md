@@ -4,7 +4,7 @@
 ## Basic information about the code
 The code was written by me in July 2017 in windows using Pytorch deep learnng toolkit. The pytorch version is 0.1.12, python version is Anaconda Python 3.6.6.
 It ran well in windows10 with NVIDIA GPU support. 
-If you cannot configure the pytorch environment, you can download my previous enironment at: 
+If you cannot configure the pytorch environment, you can download my previous enironment at: https://pan.baidu.com/s/1g-NKGyUka42_mvw-4-Zy4A   Extracting Password：wpw8
 
 
 ## Code illustration step by step
